@@ -12,3 +12,4 @@ hello Git!
 hello hello!
 hello kitty!
 11111111111
+Git真好用！
